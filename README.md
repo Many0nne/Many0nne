@@ -1,29 +1,25 @@
 # Salut, je suis Many0nne 👋
 
-Bienvenue sur mon profil GitHub ! Voici un peu plus d'informations sur moi et mes projets.
+Je développe des outils pour résoudre des problèmes concrets. Mon objectif n’est pas seulement d’écrire du code, mais de créer des projets réellement utiles pour les développeurs et les utilisateurs.
 
 ## 🚀 À propos de moi
 
-- 🔭 Actuellement, je travaille sur des projets de développement web et mobile.
-- 🌱 Je suis en train d'apprendre à améliorer mes compétences en Python, django et en Nuxt.js.
-- 👯 Je cherche à collaborer sur des projets open-source, surtout dans les domaines du développement web et de l'intelligence artificielle.
-- 📫 Tu peux me contacter par email à barillon.terry.85@gmail.com
+- 🛠 Je conçois des outils orientés productivité et automatisation pour simplifier le travail des développeurs.
 
-## 📊 Mes statistiques GitHub
+- 📦 Je construis et publie des projets open-source utilisables immédiatement, comme TS-Mock-API, un outil pour générer rapidement des API simulées en TypeScript.
 
-Voici un aperçu de mes contributions récentes :
+- 🌱 J'approfondi mes compétences dans le développement de modèles d’IA prédictifs et les outils nécessaires pour les intégrer dans des applications réelles.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Many0nne"/>
-
-## 🔧 Mes Technologies du moment
-
-- **Ce que je préfère actuellement** : Angular, Node.js, Auth0, PostgREST, postgreSQL, TypeScript, Ngrok, Google Drive (stockage d'images), 
-
+- 🎯 Mon objectif : développer des outils simples, pratiques et réutilisables qui ont un impact réel.
 
 ## 🤝 Collaboration
 
-Si tu veux collaborer sur un projet ou échanger des idées, n'hésite pas à m'envoyer un message ! Je suis toujours partant pour de nouvelles collaborations.
+Je m’intéresse particulièrement aux projets open-source qui :
 
----
+améliorent les workflows de développement
 
-Merci d'avoir visité mon profil ! 😊
+créent des outils pour d'autres développeurs
+
+expérimentent autour de l’IA appliquée aux outils de programmation
+
+Si tu travailles sur ce type de projet, on peut probablement construire quelque chose d’utile ensemble.
