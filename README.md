@@ -1,25 +1,23 @@
-# Salut, je suis Many0nne 👋
+# Hi, I'm Many0nne 👋
 
-Je développe des outils pour résoudre des problèmes concrets. Mon objectif n’est pas seulement d’écrire du code, mais de créer des projets réellement utiles pour les développeurs et les utilisateurs.
+I build tools to solve real problems. My goal is not just to write code, but to create projects that are genuinely useful for developers and users.
 
-## 🚀 À propos de moi
+## 🚀 About Me
 
-- 🛠 Je conçois des outils orientés productivité et automatisation pour simplifier le travail des développeurs.
+- 🛠 I design productivity and automation tools that simplify developers' workflows.
 
-- 📦 Je construis et publie des projets open-source utilisables immédiatement, comme TS-Mock-API, un outil pour générer rapidement des API simulées en TypeScript.
+- 📦 I build and publish open-source projects that can be used immediately, such as **TS-Mock-API**, a tool for quickly generating mock APIs in TypeScript.
 
-- 🌱 J'approfondi mes compétences dans le développement de modèles d’IA prédictifs et les outils nécessaires pour les intégrer dans des applications réelles.
+- 🌱 I am deepening my skills in developing **predictive AI models** and the tools required to integrate them into real-world applications.
 
-- 🎯 Mon objectif : développer des outils simples, pratiques et réutilisables qui ont un impact réel.
+- 🎯 My goal: to create simple, practical, and reusable tools that have a real impact.
 
 ## 🤝 Collaboration
 
-Je m’intéresse particulièrement aux projets open-source qui :
+I’m particularly interested in open-source projects that:
 
-améliorent les workflows de développement
+- improve development workflows  
+- create tools for other developers  
+- experiment with AI applied to programming tools  
 
-créent des outils pour d'autres développeurs
-
-expérimentent autour de l’IA appliquée aux outils de programmation
-
-Si tu travailles sur ce type de projet, on peut probablement construire quelque chose d’utile ensemble.
+If you're working on this kind of project, we can probably build something useful together.
